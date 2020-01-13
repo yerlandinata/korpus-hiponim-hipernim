@@ -22,7 +22,7 @@ Beberapa hal penting perlu diketahui sebelum menggunakan korpus
 ## Sampel Korpus Crowdsourcing
 ```good_sample_korpus_crowdsourcing.txt```
 
-Beberapa entri diverifikasi lagi. Semua entri pada file ini dipastikan benar.
+Beberapa entri diverifikasi lagi. Semua entri pada file ini dipastikan benar. Semuanya pasangan hiponim-hipernim.
 
 ## Gold Standard Crowdsourcing
 ```gold_standard_crowdsourcing.txt```
