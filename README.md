@@ -19,7 +19,7 @@ Beberapa hal penting perlu diketahui sebelum menggunakan korpus
 - entri ke-i dan entri ke-j pada korpus dianotasi oleh dua kelompok anotator yang berbeda karena anotator crowdsourcing tidak diwajibkan menyelesaikan semua tugas anotasi
 - nilai kappa nya adalah 0.37 (fair agreement), dihitung dengan metode Free-Marginal Multirater Kappa
 
-## Gold Standard Gamifikasi
+## Gold Standard Crowdsourcing
 ```gold_standard_gamifikasi.txt```
 
 Dibuat untuk quality control anotasi crowdsourcing. Dibuat oleh satu anotator.
