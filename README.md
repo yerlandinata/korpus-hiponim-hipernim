@@ -24,3 +24,8 @@ Beberapa hal penting perlu diketahui sebelum menggunakan korpus
 
 Dibuat untuk quality control anotasi crowdsourcing. Dibuat oleh satu anotator.
 
+
+## Citation
+*short paper coming soon*
+
+Erlandinata Y. (2020). Pembangunan Korpus dan Model Relasi Semantik Hiponim-Hipernim Bahasa Indonesia dengan Pendekatan Pattern-Based, Crowdsourcing, dan Machine Learning (Skripsi). Universitas Indonesia, Depok, Indonesia.
