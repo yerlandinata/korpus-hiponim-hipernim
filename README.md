@@ -20,7 +20,7 @@ Beberapa hal penting perlu diketahui sebelum menggunakan korpus
 - nilai kappa nya adalah 0.37 (fair agreement), dihitung dengan metode Free-Marginal Multirater Kappa
 
 ## Gold Standard Crowdsourcing
-```gold_standard_gamifikasi.txt```
+```gold_standard_crowdsourcing.txt```
 
 Dibuat untuk quality control anotasi crowdsourcing. Dibuat oleh satu anotator.
 
