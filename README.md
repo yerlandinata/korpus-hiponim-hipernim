@@ -5,6 +5,7 @@ Dibimbing oleh Bapak Rahmad Mahendra, S.Kom., M.Sc.
 
 ## Korpus Crowdsourcing
 ```korpus_crowdsourcing.txt```
+
 Beberapa hal penting perlu diketahui sebelum menggunakan korpus
 - korpus dibangun dengan teknik crowdsourcing
 - jumlah anotator untuk setiap entri pada korpus adalah 5
