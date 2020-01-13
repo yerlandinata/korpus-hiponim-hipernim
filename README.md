@@ -3,7 +3,7 @@
 Pekerjaan ini merupakan Tugas Akhir/Skripsi dari Yudhistira Erlandinata, mahasiswa Fakultas Ilmu Komputer Universitas Indonesia angkatan 2016.
 Dibimbing oleh Bapak Rahmad Mahendra, S.Kom., M.Sc.
 
-## Kandidat Korpus Crowdsourcing
+## Kandidat Korpus Crowdsourcing (belum dianotasi)
 ```korpus_crowdsourcing_kandidat.txt```
 
 Dihasilkan dengan metode pattern-based dan memenuhi dua syarat berikut.
